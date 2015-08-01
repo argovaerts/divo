@@ -1,0 +1,20 @@
+var myArray = [
+{
+	"place": "Gargamel's Portion",
+	"datum": "23/10/1958",
+	"timeIn": "9h23",
+	"time": "28 min",
+	"depth": "1,1 m",
+	"buddys": "<a href=http://is.gd/RyHHUC>Hefty Smurf</a> and Greedy Smurf",
+	"info": "too hot water"
+},
+{
+	"place": "Lake",
+	"datum": "23/10/1958",
+	"timeIn": "10h20",
+	"time": "40 min",
+	"depth": "5,3 m",
+	"buddys": "Grouchy Smurf",
+	"info": ""
+},
+];

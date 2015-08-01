@@ -1,0 +1,16 @@
+var myConfig = [
+{
+	"firstname": "Grouchy",
+	"lastname": "Smurf",
+	"website": "http://is.gd/RyHHUC",
+	
+	"link1name": "Home",
+	"link1url": "http://is.gd/RyHHUC",
+	"link2name": "Some webpage",
+	"link2url": "http://is.gd/RyHHUC",
+	"link3name": "",
+	"link3url": "",
+	
+	"copyright": "© 2015 Grouchy Smurf"
+},
+];
